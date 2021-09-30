@@ -1,7 +1,7 @@
 <!DOCTYPE html lang ="en">
 <html>
     <head>
-        <title>Đây là trang web đầu tiên của tôi.</title>
+        <title> Đây là trang web đầu tiên của tôi. </title>
     </head>
     <body>
         <hl>Giới thiệu cá nhân </hl>
